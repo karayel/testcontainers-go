@@ -14,7 +14,7 @@ import (
 
 	"github.com/stretchr/testify/assert"
 
-	"github.com/testcontainers/testcontainers-go/wait"
+	"github.com/karayel/testcontainers-go/wait"
 )
 
 func Test_ContainerValidation(t *testing.T) {

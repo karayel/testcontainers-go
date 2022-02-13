@@ -11,7 +11,7 @@ import (
 
 	"github.com/docker/docker/client"
 
-	"github.com/testcontainers/testcontainers-go/wait"
+	"github.com/karayel/testcontainers-go/wait"
 )
 
 const lastMessage = "DONE"

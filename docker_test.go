@@ -37,7 +37,7 @@ import (
 	"github.com/docker/go-connections/nat"
 	"github.com/go-redis/redis"
 
-	"github.com/testcontainers/testcontainers-go/wait"
+	"github.com/karayel/testcontainers-go/wait"
 )
 
 func TestContainerAttachedToNewNetwork(t *testing.T) {
